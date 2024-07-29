@@ -9561,7 +9561,7 @@ const Om = [
     name: "Marina Balderas",
     department: "Compras",
     extension: "193",
-    phone: "8120299940",
+    phone: "",
     email: "mbalderas@hsanvicente.mx",
   },
   {
@@ -10675,13 +10675,6 @@ const Om = [
     email: "",
   },
   {
-    name: "DR. GERARDO ALMAGUER",
-    department: "CENTRO MEDICO",
-    extension: "526",
-    phone: "",
-    email: "",
-  },
-  {
     name: "DR. JENARO CORONA",
     department: "CENTRO MEDICO",
     extension: "528",
@@ -10766,13 +10759,6 @@ const Om = [
     email: "jangel@hsanvicente.mx",
   },
   {
-    name: "Gerardo De leon",
-    department: "PROTECCION",
-    extension: "",
-    phone: "8122021350",
-    email: "gchavez@hsanvicente.mx",
-  },
-  {
     name: "SOR MARTHA VELASCO",
     department: "CONGREGACIÓN",
     extension: "",
@@ -10797,7 +10783,7 @@ const Om = [
     name: "MARINA FAVELA",
     department: "ENSEÑANZA",
     extension: "",
-    phone: "",
+    phone: "8119090947",
     email: "enseñanza@hsanvicente.mx",
   },
   {
@@ -10820,20 +10806,6 @@ const Om = [
     extension: "",
     phone: "8121937653",
     email: "compras@hsanvicente.mx",
-  },
-  {
-    name: "JUAN MANUEL NUÑEZ",
-    department: "MANTENIMIENTO",
-    extension: "",
-    phone: "8120394463",
-    email: "mantenimiento@hsanvicente.mx",
-  },
-  {
-    name: "RICARDO GUARDIOLA / CLAUDIA LEDEZMA",
-    department: "ATENCION A CLIENTES",
-    extension: "",
-    phone: "8120398010",
-    email: "cledezma@hsanvicente.mx",
   },
   {
     name: "MARIA GUADALUPE MARTINEZ / LAURA ALICIA GALVAN",
@@ -10862,13 +10834,6 @@ const Om = [
     extension: "",
     phone: "8135520887",
     email: "nomina@hsanvicente.mx",
-  },
-  {
-    name: "NANCY PATRICIA LOMELI",
-    department: "UVEH",
-    extension: "",
-    phone: "8135520893",
-    email: "epidemiologicah@hsanvicente.mx",
   },
   {
     name: "ANA GABRIELA ALEJOS",
