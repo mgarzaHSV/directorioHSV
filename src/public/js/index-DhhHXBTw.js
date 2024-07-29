@@ -10843,13 +10843,6 @@ const Om = [
     email: "admsion@hsanvicente.mx",
   },
   {
-    name: "MIGUEL ROMERO",
-    department: "COORDINACION DE INVENTARIOS",
-    extension: "",
-    phone: "8123601701",
-    email: "almacen@hsanvicente.mx",
-  },
-  {
     name: "LETICIA LOPEZ",
     department: "ADMISION",
     extension: "",
