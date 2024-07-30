@@ -9041,7 +9041,7 @@ const Om = [
   },
   {
     name: "CAJA DIAGNOSTICO",
-    department: "DIAGNOSTICO",
+    department: "CAJAS",
     extension: "107",
     phone: "",
     email: "",
@@ -9251,14 +9251,14 @@ const Om = [
   },
   {
     name: "Caja emergencias 1",
-    department: "Urgencias",
+    department: "CAJAS",
     extension: "149",
     phone: "",
     email: "",
   },
   {
     name: "Caja emergencias 2",
-    department: "Urgencias",
+    department: "CAJAS",
     extension: "150",
     phone: "",
     email: "",
@@ -9531,14 +9531,14 @@ const Om = [
   },
   {
     name: "CAJA LABORATORIO 1",
-    department: "Laboratorio",
+    department: "CAJAS",
     extension: "189",
     phone: "",
     email: "",
   },
   {
     name: "CAJA LABORATORIO 2",
-    department: "Laboratorio",
+    department: "CAJAS",
     extension: "190",
     phone: "",
     email: "",
@@ -9552,7 +9552,7 @@ const Om = [
   },
   {
     name: "CAJA GENERAL",
-    department: "Compras",
+    department: "CAJAS",
     extension: "192",
     phone: "",
     email: "",
