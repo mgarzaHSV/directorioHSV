@@ -9250,14 +9250,14 @@ const Om = [
     email: "irojas@hsanvicente.mx",
   },
   {
-    name: "Caja emergencias 1",
+    name: "Caja urgencias 1",
     department: "CAJAS",
     extension: "149",
     phone: "",
     email: "",
   },
   {
-    name: "Caja emergencias 2",
+    name: "Caja urgencias 2",
     department: "CAJAS",
     extension: "150",
     phone: "",
