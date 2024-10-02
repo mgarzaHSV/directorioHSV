@@ -9173,11 +9173,11 @@ const Om = [
     email: "",
   },
   {
-    name: "Dylan Lopez",
+    name: "Guillermo Corral",
     department: "Sistemas",
     extension: "138",
-    phone: "8119091562",
-    email: "dlopez@hsanvicente.mx",
+    phone: "",
+    email: "jcorral@hsanvicente.mx",
   },
   {
     name: "ALMACEN DIAGNOSTICO",
@@ -9425,11 +9425,11 @@ const Om = [
     email: "gchavez@hsanvicente.mx",
   },
   {
-    name: "RECEPCION CLINICA DE LA MUJER",
-    department: "Clinica de la mujer",
+    name: "ADMISION 2",
+    department: "ADMISION",
     extension: "174",
     phone: "",
-    email: "",
+    email: "admisionhsv@hsanvicente.mx",
   },
   {
     name: "DIAGNOSTICO CLINICA MUJER",
