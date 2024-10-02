@@ -10842,13 +10842,6 @@ const Om = [
     phone: "8135520433",
     email: "coordinaciondx@hsanvicente.mx",
   },
-  {
-    name: "Grabiela Alejo",
-    department: "Diagnostico",
-    extension: "",
-    phone: "8135520433",
-    email: "coordinaciondx@hsanvicente.mx",
-  },
 ];
 function Rm() {
   const [e, n] = Ln.useState(""),
