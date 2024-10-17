@@ -10817,7 +10817,7 @@ const Om = [
   {
     name: "LETICIA LOPEZ",
     department: "ADMISION",
-    extension: "",
+    extension: "166",
     phone: "8120017244",
     email: "llopez@hsanvicente.mx",
   },
