@@ -9369,13 +9369,6 @@ const Om = [
     email: "aherrera@hsanvicente.mx",
   },
   {
-    name: "PRUEBAS COVID",
-    department: "Covid",
-    extension: "166",
-    phone: "",
-    email: "",
-  },
-  {
     name: "TRIAGE",
     department: "Urgencias",
     extension: "167",
